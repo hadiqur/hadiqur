@@ -12,7 +12,8 @@ For me, some of the most fulfilling engineering work is work that genuinely remo
 
 That mindset led me to take on substantial engineering responsibilities outside my full-time role too:
 
-- leading development of a production **React Native app for Altrincham Mosque**, now serving **850+ users**
+- leading development of a production **React Native app for Altrincham Mosque** - now serving **850+ users**  
+  **([iOS](https://apps.apple.com/gb/app/altrincham-mosque/id6756262129) | [Android](https://play.google.com/store/apps/details?id=com.altrinchammosque.prayerapp&hl=en_GB))**
 - building automation and scheduling systems at **Medology Global** that remove hours of manual operational work each week
 
 [LinkedIn](https://www.linkedin.com/in/hqur) · [All merged PRs →](https://github.com/search?q=author%3Ahadiqur+is%3Apr+is%3Amerged&type=pullrequests)
