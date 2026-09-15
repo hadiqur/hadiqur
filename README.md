@@ -15,4 +15,4 @@ That mindset led me to take on substantial engineering responsibilities outside 
 - leading development of a production **React Native app for Altrincham Mosque**, now serving **850+ users**
 - building automation and scheduling systems at **Medology Global** that remove hours of manual operational work each week
 
-[LinkedIn](https://www.linkedin.com/in/hqur) · [All merged PRs →](https://github.com/search?q=author%3AYOUR_USERNAME+is%3Apr+is%3Amerged&type=pullrequests)
+[LinkedIn](https://www.linkedin.com/in/hqur) · [All merged PRs →](https://github.com/search?q=author%3Ahadiqur+is%3Apr+is%3Amerged&type=pullrequests)
