@@ -6,7 +6,7 @@ I recently completed my year in industry as a Software Engineer at the **Office 
 
 Nothing excites me more than starting something zero and taking it through the whole journey - requirements, design, implementation, infrastructure and deployment!
 
-For me, some of the most fulfilling engineering work is work that genuinely removes friction from people's lives. That mindset led me to take on substantial engineering responsibilities outside my full-time role too. Take a look at some of my ongoing work below!
+For me, some of the most fulfilling engineering work is work that genuinely removes friction from people's lives. Take a look at some of my ongoing work below!
 
 - Leading development of Altrincham Mosque's mobile app alongside [@NS086](https://github.com/NS086) - now serving **850+ users**. Check it out on **[App Store](https://apps.apple.com/gb/app/altrincham-mosque/id6756262129) and [Google Play](https://play.google.com/store/apps/details?id=com.altrinchammosque.prayerapp&hl=en_GB)**!
 
