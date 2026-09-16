@@ -1,10 +1,12 @@
 # Hey, I'm Hadi 👋
 
-I'm a product-focused software engineer with experience across the full software development lifecycle, from frontend and backend development through to cloud infrastructure and production operations.
+I'm a product-focused software engineer with experience across the full stack, from frontend and backend development through to cloud infrastructure and production operations.
+
+(I need to double down on something at some point...)
 
 I recently completed my year in industry as a Software Engineer at the **Office for National Statistics**, where I worked across React, Express, Python, AWS and Terraform, and I'll be continuing with the ONS during my final year at the University of Sheffield.
 
-Nothing excites me more than starting something zero and taking it through the whole journey - requirements, design, implementation, infrastructure and deployment!
+Nothing excites me more than starting something from scratch and taking it through the whole journey, shaping its direction - requirements, design, implementation, infrastructure and deployment!
 
 For me, some of the most fulfilling engineering work is work that genuinely adds value to or removes friction from people's lives. Take a look at some of my ongoing work below!
 
