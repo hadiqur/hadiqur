@@ -12,6 +12,6 @@ For me, some of the most fulfilling engineering work is work that genuinely adds
 
 - Launched Altrincham Mosque's mobile app earlier this year, and now developing alongside [@NS086](https://github.com/NS086) - currently serving **850+ users**! Check it out on **[App Store](https://apps.apple.com/gb/app/altrincham-mosque/id6756262129) and [Google Play](https://play.google.com/store/apps/details?id=com.altrinchammosque.prayerapp&hl=en_GB)** :)
 
-
+--
 
 [LinkedIn](https://www.linkedin.com/in/hqur) · [All merged PRs →](https://github.com/search?q=author%3Ahadiqur+is%3Apr+is%3Amerged&type=pullrequests)
