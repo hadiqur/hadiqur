@@ -10,7 +10,7 @@ Nothing excites me more than starting something from scratch and taking it throu
 
 For me, some of the most fulfilling engineering work is work that genuinely adds value to or removes friction from people's lives. Take a look at some of my ongoing work below!
 
-- Leading development of Altrincham Mosque's mobile app alongside [@NS086](https://github.com/NS086) - now serving **850+ users**. Check it out on **[App Store](https://apps.apple.com/gb/app/altrincham-mosque/id6756262129) and [Google Play](https://play.google.com/store/apps/details?id=com.altrinchammosque.prayerapp&hl=en_GB)**!
+- Launched Altrincham Mosque's mobile app earlier this year, and now developing alongside [@NS086](https://github.com/NS086) - currently serving **850+ users**!. Check it out on **[App Store](https://apps.apple.com/gb/app/altrincham-mosque/id6756262129) and [Google Play](https://play.google.com/store/apps/details?id=com.altrinchammosque.prayerapp&hl=en_GB)** :)
 
 
 
