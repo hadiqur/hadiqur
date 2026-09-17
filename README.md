@@ -13,4 +13,4 @@ For me, some of the most fulfilling engineering work is work that genuinely adds
 ---
 
 - [LinkedIn](https://www.linkedin.com/in/hqur)
-- [Merged PRs]([https://github.com/search?q=author%3Ahadiqur+is%3Apr+is%3Amerged&type=pullrequests](https://github.com/search?q=author%3Ahadiqur+is%3Apr+is%3Amerged&type=pullrequests&s=comments&o=desc))
+- [Merged PRs](https://github.com/search?q=author%3Ahadiqur+is%3Apr+is%3Amerged&type=pullrequests&s=comments&o=desc)
